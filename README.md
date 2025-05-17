@@ -30,11 +30,11 @@ html>
 
 
 
-    <h2 id="Estrutura básica do HTML">Estrutura básica do HTML</h2>
-    <p>As tags HTML são elementos fundamentais da linguagem, responsáveis por estruturar
+   <h2 id=<"Estrutura básica do HTML">Estrutura básica do HTML </h2>
+   <p> As tags HTML são elementos fundamentais da linguagem, responsáveis por estruturar
         e organizar o conteúdo de uma página web. Cada tag tem um propósito específico e pode conter
-         atributos que modificam seu comportamento. Aqui estão algumas das principais tags do HTML:</p>
-    <h3 id="tags essenciais">tags essenciais</h3>
+         atributos que modificam seu comportamento. Aqui estão algumas das principais tags do HTML</p>
+   <h3 id="tags essenciais">tags essenciais </h3>
 <ul>
     <li> html: Define o início do documento HTML.</li>
     <li> head: Contém metadados, links para folhas de estilo e o título da página.</li>
